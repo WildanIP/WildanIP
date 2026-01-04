@@ -14,6 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Banner](Banner.png)
+
 # Hi, I'm 👋
 
 ## 👨‍💻 About Me
